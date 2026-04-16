@@ -1,4 +1,4 @@
-# 🧠 AI Resume Screening System (Free Version)
+# 🧠 AI Resume Screening System 
 
 ## 📌 Overview
 
